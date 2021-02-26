@@ -1,3 +1,8 @@
 Teste
+<<<<<<< HEAD
 Entendendo o HEAD
 Esta linha foi modificada no ramo Master
+=======
+Entendendo o HEAD 
+Está linha foi modificada no ramo teste 
+>>>>>>> teste
